@@ -1,0 +1,23 @@
+{
+  "name": "materialize-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-oublihi/my-portfolio-v1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed-oublihi/my-portfolio-v1/issues"
+  },
+  "homepage": "https://ahmed-oublihi.github.io/my-portfolio-v1"
+}
