@@ -6,7 +6,11 @@ $(document).ready(function(){
   });
   $('.button-collapse').sideNav();
   $('.modal').modal();
+  $('.parallax').parallax();
+  $('.collapsible').collapsible();
 });
+
+    
 
 var typed = new Typed('.typedIlement', {
   strings: ['Web Design', 'Web Development', 'MERN-Stack'],
